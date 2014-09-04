@@ -4,8 +4,6 @@
 #include <QString>
 #include <QVariant>
 
-class QSpinBox;
-
 #include "DataRow.h"
 
 class NameNumberInfo : public DataRow
